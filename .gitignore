@@ -1,0 +1,6 @@
+__pycache__/
+.idea
+*.DS_Store
+exp/
+data/imagenet_vt/
+*.ipynb
